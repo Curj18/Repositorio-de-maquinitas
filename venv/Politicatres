@@ -1,0 +1,27 @@
+
+#Tenant
+{
+    "totalCount": "1",
+    "imdata": [
+        {
+            "dhcpOptionPol": {
+                "attributes": {
+                    "annotation": "",
+                    "childAction": "",
+                    "descr": "",
+                    "dn": "uni/tn-politicatres/dhcpoptpol-politicadhcp1",
+                    "extMngdBy": "",
+                    "lcOwn": "local",
+                    "modTs": "2022-08-15T03:51:35.951+00:00",
+                    "name": "politicadhcp1",
+                    "nameAlias": "",
+                    "ownerKey": "",
+                    "ownerTag": "",
+                    "status": "",
+                    "uid": "15374",
+                    "userdom": ":all:"
+                }
+            }
+        }
+    ]
+}
